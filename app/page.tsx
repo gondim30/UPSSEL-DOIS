@@ -84,7 +84,7 @@ export default function UpsellPage() {
         {/* Downsell Button */}
         <a
           href="https://pay.mundpay.com/0198903a-cb3b-72a1-bd10-5210f87265a2?ref="
-          className="block w-full bg-gray-700 hover:bg-gray-600 text-white font-medium py-3 px-6 rounded-lg text-sm transition-colors mt-4"
+          className="block w-full bg-yellow-700/60 hover:bg-yellow-600/70 text-white font-medium py-3 px-6 rounded-lg text-sm transition-colors mt-4"
           target="_blank"
           rel="noopener noreferrer"
         >
